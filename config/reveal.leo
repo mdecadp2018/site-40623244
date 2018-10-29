@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -36,6 +36,51 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181015110834.1" a="E"><vh>W1</vh>
+<v t="leo.20181015110834.2" a="E"><vh>week1</vh>
+<v t="leo.20181015110834.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112145.1" a="E"><vh>W2</vh>
+<v t="leo.20181015112145.2" a="E"><vh>week2</vh>
+<v t="leo.20181015112145.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112156.1" a="E"><vh>W3</vh>
+<v t="leo.20181015112156.2" a="E"><vh>week3</vh>
+<v t="leo.20181015112156.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112158.1" a="E"><vh>W4</vh>
+<v t="leo.20181015112158.2" a="E"><vh>wee4</vh>
+<v t="leo.20181015112158.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112200.1" a="E"><vh>W5</vh>
+<v t="leo.20181015112200.2" a="E"><vh>week5</vh>
+<v t="leo.20181015112200.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112217.1" a="E"><vh>W6</vh>
+<v t="leo.20181015112217.2" a="E"><vh>week6</vh>
+<v t="leo.20181015112217.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112219.1" a="E"><vh>W7</vh>
+<v t="leo.20181015112219.2" a="E"><vh>week7</vh>
+<v t="leo.20181015112219.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112234.1" a="E"><vh>W8</vh>
+<v t="leo.20181015112234.2" a="E"><vh>week8</vh>
+<v t="leo.20181015112234.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20181015112236.1" a="E"><vh>W9</vh>
+<v t="leo.20181015112236.2" a="E"><vh>week9</vh>
+<v t="leo.20181015112236.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -124,17 +169,11 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623244簡報
 
 ### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
+[2018 Fall 40623244網誌](./../blog/index.html)
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -325,6 +364,179 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181015110834.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015110834.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015110834.3"># Week1
+</t>
+<t tx="leo.20181015112145.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112145.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112145.3"># Week2
+
+</t>
+<t tx="leo.20181015112156.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112156.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112156.3"># Week3
+
+</t>
+<t tx="leo.20181015112158.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112158.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112158.3"># Week4
+</t>
+<t tx="leo.20181015112200.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112200.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112200.3"># Week5
+
+
+</t>
+<t tx="leo.20181015112217.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112217.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112217.3"># Week6
+
+</t>
+<t tx="leo.20181015112219.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112219.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112219.3"># Week7
+
+
+</t>
+<t tx="leo.20181015112234.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112234.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112234.3"># Week8
+
+
+
+</t>
+<t tx="leo.20181015112236.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181015112236.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181015112236.3"># Week9
+
 </t>
 </tnodes>
 </leo_file>
