@@ -38,49 +38,44 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181015110834.1" a="E"><vh>W1</vh>
+<v t="leo.20181015110834.1"><vh>W1</vh>
 <v t="leo.20181015110834.2" a="E"><vh>week1</vh>
 <v t="leo.20181015110834.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112145.1" a="E"><vh>W2</vh>
+<v t="leo.20181015112145.1"><vh>W2</vh>
 <v t="leo.20181015112145.2" a="E"><vh>week2</vh>
 <v t="leo.20181015112145.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112156.1" a="E"><vh>W3</vh>
+<v t="leo.20181015112156.1"><vh>W3</vh>
 <v t="leo.20181015112156.2" a="E"><vh>week3</vh>
 <v t="leo.20181015112156.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112158.1" a="E"><vh>W4</vh>
+<v t="leo.20181015112158.1"><vh>W4</vh>
 <v t="leo.20181015112158.2" a="E"><vh>wee4</vh>
 <v t="leo.20181015112158.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112200.1" a="E"><vh>W5</vh>
+<v t="leo.20181015112200.1"><vh>W5</vh>
 <v t="leo.20181015112200.2" a="E"><vh>week5</vh>
 <v t="leo.20181015112200.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112217.1" a="E"><vh>W6</vh>
+<v t="leo.20181015112217.1"><vh>W6</vh>
 <v t="leo.20181015112217.2" a="E"><vh>week6</vh>
 <v t="leo.20181015112217.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112219.1" a="E"><vh>W7</vh>
+<v t="leo.20181015112219.1"><vh>W7</vh>
 <v t="leo.20181015112219.2" a="E"><vh>week7</vh>
 <v t="leo.20181015112219.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112234.1" a="E"><vh>W8</vh>
+<v t="leo.20181015112234.1"><vh>W8</vh>
 <v t="leo.20181015112234.2" a="E"><vh>week8</vh>
 <v t="leo.20181015112234.3"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20181015112236.1" a="E"><vh>W9</vh>
-<v t="leo.20181015112236.2" a="E"><vh>week9</vh>
-<v t="leo.20181015112236.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -517,25 +512,6 @@ make.start()
 <t tx="leo.20181015112234.3"># Week8
 
 
-
-</t>
-<t tx="leo.20181015112236.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181015112236.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181015112236.3"># Week9
 
 </t>
 </tnodes>
