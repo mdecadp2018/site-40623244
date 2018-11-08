@@ -30,7 +30,7 @@
 <v t="leo.20170709015955.1"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
-<v t="leo.20180115115910.1"><vh>2018</vh>
+<v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>week1</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
 </v>
@@ -49,8 +49,14 @@
 <v t="leo.20181015113713.1" a="E"><vh>week6</vh>
 <v t="leo.20181015113713.7"><vh>@edit 201801015.md</vh></v>
 </v>
-<v t="leo.20181022095213.1" a="E"><vh>week7</vh>
+<v t="leo.20181022095213.1"><vh>week7</vh>
 <v t="leo.20181022095213.2"><vh>@edit 201801022.md</vh></v>
+</v>
+<v t="leo.20181108121217.1" a="E"><vh>week8</vh>
+<v t="leo.20181108121217.2"><vh>@edit 201801029.md</vh></v>
+</v>
+<v t="leo.20181108121234.1" a="E"><vh>week9</vh>
+<v t="leo.20181108121234.2"><vh>@edit 201801105.md</vh></v>
 </v>
 </v>
 </v>
@@ -126,6 +132,8 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181015113710.1"></t>
 <t tx="leo.20181015113713.1"></t>
 <t tx="leo.20181022095213.1"></t>
+<t tx="leo.20181108121217.1"></t>
+<t tx="leo.20181108121234.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

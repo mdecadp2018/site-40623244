@@ -170,7 +170,7 @@ vertical: body pane on the botton</t>
 
 [2018 Fall 40623244網誌](./../blog/index.html)
 
-[2018 Fall 40623244網站](./../site-40623244)
+[2018 Fall 40623244網站](./../site-40623244.html)
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
